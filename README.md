@@ -1,7 +1,7 @@
 
 # Workout Tracker Web Application
-# GITHUB REPO LINK: https://github.com/vivekisreddy/a4-vivekisreddy/tree/main
-# GLITCH LINK: https://a3-vivekisreddy1.glitch.me/login.html
+GITHUB REPO LINK: https://github.com/vivekisreddy/a4-vivekisreddy/tree/main
+GLITCH LINK: https://a3-vivekisreddy1.glitch.me/login.html
 
 ## Project Summary
 
